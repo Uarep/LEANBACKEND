@@ -1,0 +1,6 @@
+###กลับมาที่ folder หลัก#####
+-cd ../..
+-npm create vite@latest frontend -- --template react
+-cd frontend
+-npm install
+-npm run dev
