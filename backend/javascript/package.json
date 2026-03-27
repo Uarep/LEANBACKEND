@@ -1,0 +1,12 @@
+{
+  "name": "my-first-api",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.0",
+    "hono": "^4.6.0",
+    "pg": "^8.20.0"
+  }
+}
